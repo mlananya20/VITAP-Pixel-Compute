@@ -1,0 +1,3 @@
+[submodule "sticky-notes"]
+	path = sticky-notes
+	url = https://github.com/mlananya20/sticky-notes.git
