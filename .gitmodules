@@ -1,3 +1,6 @@
 [submodule "sticky-notes"]
 	path = sticky-notes
 	url = https://github.com/mlananya20/sticky-notes.git
+[submodule "wordle-game"]
+	path = wordle-game
+	url = https://github.com/mlananya20/wordle-game.git
